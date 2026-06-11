@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 
 ### Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresqlgit,github,postman,docker" />
 </p>
