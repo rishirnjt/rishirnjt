@@ -11,7 +11,6 @@
 - 🇳🇵 Based in Nepal  
 - 🎓 Computer Science Student  
 - 💻 Full-Stack Developer (MERN)  
-- 🌱 Currently learning Next.js & Cloud  
 - 🚀 Love building real-world projects  
 - 💼 Open to internships & freelance work  
 
